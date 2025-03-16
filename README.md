@@ -14,7 +14,7 @@ curl 'http://localhost:8080/register?name=<your name here>'
 
 start cli and chat~
 ```bash
-go run cli.go -s 8080 -i 1
+./client -s 8080 -i 1
 ```
 > NOTE that the `-i` means your id. you can get it after regiter
 
