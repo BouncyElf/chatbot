@@ -1,0 +1,26 @@
+openning:
+  "您好👋，我是客服机器人🤖，有什么可以帮您的？～"
+ending:
+  "感谢您的反馈，我们会努力做的更好，再见～👋"
+start_review:
+  "好的，这边会帮您记录下反馈内容～"
+guide_to_feedback:
+  "您可以留言“反馈”，进入反馈流程～"
+default:
+  "您可以留言“反馈”，进入反馈流程～"
+end_keywords:
+  - "再见"
+  - "结束"
+  - "bye"
+  - "over"
+  - "end"
+  - "quit"
+review_keywords:
+  - "review"
+  - "feedback"
+  - "反馈"
+keywords:
+  "测试": "测试成功"
+  "机器人": "我是机器人"
+  "test2": "okok2"
+  "天气": "今天天气风和日丽～"
